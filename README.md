@@ -314,7 +314,7 @@ A sample study notes document is included:
 4. **Ask Out-of-Scope Questions:**
    - "Who won the 2022 FIFA World Cup?"
    - "How do I bake a chocolate cake?"
-   
+
    The assistant should indicate that relevant information was not found in the uploaded documents.
 5. **AI Summarizer:** Navigate to AI Summaries and click Generate AI Summary to receive a structured overview with key topics and review highlights.
 6. **Document Deletion:** Delete a document from Study Materials and verify that its file and corresponding FAISS vectors are removed.
@@ -339,8 +339,3 @@ This project is open-source and intended for educational and personal study use.
 ## 🎓 Academic Use
 
 STUDY MATE AI is designed as an educational project to demonstrate the practical implementation of Retrieval-Augmented Generation using document processing, semantic embeddings, vector search, and large language models.
-
-#   A I - S m a r t - S t u d y  
- #   A I - S m a r t - S t u d y  
- #   A I - S m a r t - S t u d y  
- 
