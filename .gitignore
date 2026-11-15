@@ -1,0 +1,56 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+
+# Environment Configuration
+.env
+*.env
+backend/.env
+!backend/.env.example
+
+# Node & Frontend Build
+node_modules/
+frontend/node_modules/
+frontend/dist/
+dist/
+.npm
+.eslintcache
+
+# Uploads & Vector Store runtime data
+backend/uploads/files/*
+!backend/uploads/files/.gitkeep
+backend/uploads/metadata.json
+backend/vector_db/*
+!backend/vector_db/.gitkeep
+
+# IDE & OS
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
